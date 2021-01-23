@@ -1,0 +1,12 @@
+[1111/100506.937:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1111/101809.638:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1111/102812.673:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1111/195745.987:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/005527.465:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/005527.466:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1120/015414.594:ERROR:file_io_win.cc(162)] CreateFile C:\Users\sohel\AppData\Local\Temp\scoped_dir32332_82754836\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1120/015414.595:ERROR:file_io_win.cc(171)] CreateFile C:\Users\sohel\AppData\Local\Temp\scoped_dir32332_82754836\Crashpad\reports\e105bf9e-4246-4fc7-b137-392955f30e4b.dmp: The system cannot find the path specified. (0x3)
+[1120/015414.595:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1120/034058.472:ERROR:file_io_win.cc(162)] CreateFile C:\Users\sohel\AppData\Local\Temp\scoped_dir32332_82754836\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1120/034058.473:ERROR:file_io_win.cc(171)] CreateFile C:\Users\sohel\AppData\Local\Temp\scoped_dir32332_82754836\Crashpad\reports\ba0c3b83-accb-4b9e-b195-36d70881eaba.dmp: The system cannot find the path specified. (0x3)
+[1120/034058.473:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
